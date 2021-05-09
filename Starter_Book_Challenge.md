@@ -35,4 +35,4 @@ Based on the outcomes of the goal amounts:
 I hope that you will find the information provided helpful to you in making the necessary moves to fulfil your goal in launching a successful play. Please let me know if there are any other questions, I could answer for you that would help you in your decision-making process.
 
 Starter Book Challenge/resources/Theater_Launch_Date_Outcomes_BarChart.png
-![Theater_Launch_Date_Outcomes_BarChart](resources/Theater_Launch_Date_Outcomes_BarChart.png)
+![Theater_Launch_Date_Outcomes_BarChart](Theater_Launch_Date_Outcomes_BarChart.png)
