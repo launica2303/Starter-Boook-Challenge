@@ -33,5 +33,5 @@ Based on the outcomes of the goal amounts:
 3) Failed Kickstarter campaigns had higher fundraising goals than that of successful campaigns. This did not seem to be the total cause of their failure. However, it may still pose a huge issue with the success of your campaign in the fact that you are asking for twice as much as the average Kickstarter goals found in this dataset.
 
 I hope that you will find the information provided helpful to you in making the necessary moves to fulfil your goal in launching a successful play. Please let me know if there are any other questions, I could answer for you that would help you in your decision-making process.
-![Outcomes_vs_Goals](
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 ![Theater_Launch_Date_Outcomes_BarChart](Theater_Launch_Date_Outcomes_BarChart.png)
