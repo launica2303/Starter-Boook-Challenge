@@ -15,11 +15,11 @@ Determining a trend in Statuses based on launch dates.
 Another factor that seems to play a role in the success of a campaign was the launch date. For this reason, I wanted to focus on comparing the statistics of the successful, failed, and canceled projects and their launch dates. This will help in discovering any trends or factors that will differentiate the outcomes of the projects. Since the goal is to launch a play here in the U.S., I decided to focus my research on the United States.
 
 When is the Best Time of Year to Launch a project?
-Knowing when to launch your project is an important factor. As shown on Outcomes Based on Launch Date Chart (see chart in resource folder here) you can see some months favor more success than others.
+Knowing when to launch your project is an important factor. As shown on Outcomes Based on Launch Date Chart (see second chart below) you can see some months favor more success than others.
 *Projects are exceptionally successful at one of the following points in time:
 Best months (campaign launch): listed in order of success were: May, and June.
 Worst month (campaign start) was December.
-June, July, and October seemed to have around the same number of failed campaigns launched (see chart below).
+June, July, and October seemed to have around the same number of failed campaigns launched (see third chart below).
 
 Some limitations found with this dataset.
 Since the dataset did not focus on specific states in the U.S., it may have been beneficial to see if this also had a factor in the success of a campaign. Did some states do better at certain months of the year than other months? How were most states similar? As well as showing which states had higher success rates overall. All these factors could help in not only deciding when, but where in the U.S. is the best place to launch a campaign.
