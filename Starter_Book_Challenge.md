@@ -7,8 +7,8 @@ Preliminary Analysis
 The Theatre Kickstarter projects were analyzed under two subcategories musicals and plays. Of these subcategories the total pledged mean amount was $5,602.00.  The median goal range of successful projects was $3,000.00.
 
 Funding Goals
-Setting a funding goal is a particularly important part of any project. This should be the minimum amount you are going to need to complete your project. For this reason, it is important you determine a budget first. The funding target for a successful Kickstarter in these subcategories is going to give you a guideline you will want to follow. The mean goal amount for all successful projects was $5,049.00. This amount was found by comparing the average amount in the Goals column but only using those amounts that had a successful outcome from the Outcomes column (see chart in resources folder here). Starter Book Challenge/resources/ Outcomes_vs_Goals.png
-Do larger goal amounts determine the success or failure of a campaign?
+Setting a funding goal is a particularly important part of any project. This should be the minimum amount you are going to need to complete your project. For this reason, it is important you determine a budget first. The funding target for a successful Kickstarter in these subcategories is going to give you a guideline you will want to follow. The mean goal amount for all successful projects was $5,049.00. This amount was found by comparing the average amount in the Goals column but only using those amounts that had a successful outcome from the Outcomes column (see first chart below). 
+Do larger goal amounts determine the success or failure of a campaign? 
 As you would conclude the more a campaign needs to be funded the harder this will be on ensuring the success of the campaign. Failed Kickstart campaign goals were much higher than that of successful campaigns. Proving once again less is more. So, I would say that the higher the goal the higher possibility that the campaign could fail. The good news is that this did not seem to be the only determination of the success or fail of a campaign.
 
 Determining a trend in Statuses based on launch dates.
@@ -19,7 +19,7 @@ Knowing when to launch your project is an important factor. As shown on Outcomes
 *Projects are exceptionally successful at one of the following points in time:
 Best months (campaign launch): listed in order of success were: May, and June.
 Worst month (campaign start) was December.
-June, July, and October seemed to have around the same number of failed campaigns launched (see chart in resource folder here).
+June, July, and October seemed to have around the same number of failed campaigns launched (see chart below).
 
 Some limitations found with this dataset.
 Since the dataset did not focus on specific states in the U.S., it may have been beneficial to see if this also had a factor in the success of a campaign. Did some states do better at certain months of the year than other months? How were most states similar? As well as showing which states had higher success rates overall. All these factors could help in not only deciding when, but where in the U.S. is the best place to launch a campaign.
@@ -33,6 +33,5 @@ Based on the outcomes of the goal amounts:
 3) Failed Kickstarter campaigns had higher fundraising goals than that of successful campaigns. This did not seem to be the total cause of their failure. However, it may still pose a huge issue with the success of your campaign in the fact that you are asking for twice as much as the average Kickstarter goals found in this dataset.
 
 I hope that you will find the information provided helpful to you in making the necessary moves to fulfil your goal in launching a successful play. Please let me know if there are any other questions, I could answer for you that would help you in your decision-making process.
-
-Starter Book Challenge/resources/Theater_Launch_Date_Outcomes_BarChart.png
+![Outcomes_vs_Goals](
 ![Theater_Launch_Date_Outcomes_BarChart](Theater_Launch_Date_Outcomes_BarChart.png)
